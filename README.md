@@ -1,2 +1,2 @@
-# robbna.github.io
- 
+# Web personal y portfolio
+Desarrollada con [Bootstrap](https://bootstrapmade.com/)
